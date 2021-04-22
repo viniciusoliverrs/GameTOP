@@ -1,0 +1,12 @@
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\bin\Debug\net5.0\GameTOP.Interface.deps.json
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\bin\Debug\net5.0\GameTOP.Interface.dll
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\bin\Debug\net5.0\ref\GameTOP.Interface.dll
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\bin\Debug\net5.0\GameTOP.Interface.pdb
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.dll
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\obj\Debug\net5.0\ref\GameTOP.Interface.dll
+C:\Users\Vinicius\Documents\GitHub\consolecore\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.pdb
