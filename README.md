@@ -1,1 +1,1 @@
-<h1>Projeto de introdução asp.net core, separando os arquivos em camadas.</h1>
+<h1>Introdução asp.net core, separando os arquivos em camadas.</h1>
